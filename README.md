@@ -44,11 +44,13 @@ Logframes, indicators, MEL frameworks, data validation, program dashboards, impa
 
 ## 📌 Featured Projects
 
-### 1. Donor-Funded Program Monitoring & Evaluation Dashboard
-A portfolio project focused on tracking program indicators, donor reporting metrics, implementation progress, and data quality issues.
+### 1. Donor-Funded Program Monitoring, Learning & Evaluation Dashboard
 
-**Tools:** Python, SQL, Pandas, Matplotlib, Plotly, Google Looker Studio
+A data science portfolio project focused on monitoring, learning, and evaluation for donor-funded programs. This project uses Python, SQL, and dashboard planning to track program indicators, compare targets against actual results, identify data quality issues, and support donor reporting.
 
+**Tools:** Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Google Looker Studio  
+
+**Repository:** [Donor-Funded Program Monitoring, Learning & Evaluation Dashboard](https://github.com/davidniyigena/Donor-Funded-Program-Monitoring-Learning-Evaluation-Dashboard)
 ### 2. Rwanda Education Indicators Analysis
 An education data project analyzing Rwanda development indicators to explore trends, gaps, and progress over time.
 
