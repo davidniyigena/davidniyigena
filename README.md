@@ -59,10 +59,12 @@ A data science portfolio project analyzing Rwanda education indicators to explor
 
 **Repository:** [Rwanda Education Indicators Analysis](https://github.com/davidniyigena/Rwanda-Education-Indicators-Analysis)
 ### 3. Nonprofit Grant Reporting Data System
-A structured data workflow for organizing, cleaning, transforming, and analyzing nonprofit grant reporting data.
 
-**Tools:** SQL, Python, Excel
+A data analytics portfolio project for organizing, cleaning, analyzing, and reporting nonprofit grant data. This project uses Python, SQL, and dashboard-style reporting to monitor grant funding, spending rates, reporting status, compliance issues, and beneficiary reach.
 
+**Tools:** Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Plotly, CSV Data Files  
+
+**Repository:** [Nonprofit Grant Reporting Data System](https://github.com/davidniyigena/Nonprofit-Grant-Reporting-Data-System)
 ### 4. Machine Learning for Program Outcome Prediction
 A predictive modeling project focused on estimating program outcomes using structured program or participant-level data.
 
