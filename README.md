@@ -55,7 +55,7 @@ A data science portfolio project focused on monitoring, learning, and evaluation
 
 A data science portfolio project analyzing Rwanda education indicators to explore trends in school enrollment, completion rates, gender parity, and pupil-teacher ratios. This project uses Python, structured public development-style data, and visualization to support education monitoring, policy analysis, and evidence-based decision-making.
 
-**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, CSV data files  
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, CSV Data Files  
 
 **Repository:** [Rwanda Education Indicators Analysis](https://github.com/davidniyigena/Rwanda-Education-Indicators-Analysis)
 ### 3. Nonprofit Grant Reporting Data System
