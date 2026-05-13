@@ -52,10 +52,12 @@ A data science portfolio project focused on monitoring, learning, and evaluation
 
 **Repository:** [Donor-Funded Program Monitoring, Learning & Evaluation Dashboard](https://github.com/davidniyigena/Donor-Funded-Program-Monitoring-Learning-Evaluation-Dashboard)
 ### 2. Rwanda Education Indicators Analysis
-An education data project analyzing Rwanda development indicators to explore trends, gaps, and progress over time.
 
-**Tools:** Python, Pandas, World Bank data, data visualization
+A data science portfolio project analyzing Rwanda education indicators to explore trends in school enrollment, completion rates, gender parity, and pupil-teacher ratios. This project uses Python, structured public development-style data, and visualization to support education monitoring, policy analysis, and evidence-based decision-making.
 
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, CSV data files  
+
+**Repository:** [Rwanda Education Indicators Analysis](https://github.com/davidniyigena/Rwanda-Education-Indicators-Analysis)
 ### 3. Nonprofit Grant Reporting Data System
 A structured data workflow for organizing, cleaning, transforming, and analyzing nonprofit grant reporting data.
 
